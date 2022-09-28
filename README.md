@@ -1,6 +1,5 @@
 # swx-clone-test
 rabab
 singh
-ww
-ll
+w
 www
